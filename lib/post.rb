@@ -11,4 +11,6 @@ class Post
     @author = author
   end
 
+  def self.all
+  end
 end
