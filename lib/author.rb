@@ -27,5 +27,6 @@ class Author
   end
 
   def name
+    @name
   end
 end
