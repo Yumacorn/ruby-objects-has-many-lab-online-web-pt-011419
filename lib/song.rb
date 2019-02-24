@@ -4,7 +4,7 @@ class Song
 
   def initialize(name)
     @name = name
-    @@song_count++
+    @@song_count += 1
   end
 
   # def add_song(name)
